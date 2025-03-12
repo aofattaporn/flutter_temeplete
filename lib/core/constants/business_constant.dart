@@ -1,0 +1,3 @@
+class BusinessConstant {
+  BusinessConstant._();
+}
